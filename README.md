@@ -1,4 +1,5 @@
 Usando gets.chomp para retornar (nome).
+o inicio 
 # Este programa pergunta o nome do usuário e imprime uma saudação.
 
 puts "Qual é o seu nome?"
